@@ -1,4 +1,4 @@
-# AsiaCCS2020_I came, I saw, I hacked
+# ICS Research Resources
 This repository contains the constructed datasets as well as trained models for the paper: "I came, I saw, I hacked: Automated Generation of Process-independent Attacks for Industrial Control Systems"  
 Here, we demonstrate fingerprinting of various processes and sectors of an Industrial Control System (ICS) to gain automatically contruct attack vector that has intelligence to perform meaningful damage  
 **Part 1: ICS Sector fingerprinting using HMI images**  
