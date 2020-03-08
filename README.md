@@ -28,7 +28,7 @@ All the training scripts used to train the architectures discussed in the paper 
 A sample script to utilize the models to predict accuracy: Evaluation_final_script.py
 Please note, there might be a difference in test accuracy of ~2%. We encourage advancement of other architectures and models to train the constructed dataset.  
 
-# Cite us!
+### Cite us!
 E. Sarkar, H. Benkraouda, M. Maniatakos  
 "I came, I saw, I hacked: Automated Generation of Process-independent Attacks for Industrial Control Systems"  
 ACM Asia Conference on Computer and Communications Security (AsiaCCS 2020)
